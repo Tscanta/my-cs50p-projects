@@ -6,17 +6,19 @@ This repository contains my solutions and projects from Harvard University's CS5
 
 I am currently learning Python through CS50P and using this repository to document my progress, practice programming concepts, and build a strong foundation in computer science.
 
-## Completed Projects
+## Progress
 
 ### Week 0
+
+**Projects:**
 
 * Indoor Voice
 * Playback Speed
 * Making Faces
-* Einstein (e=mc^2)
-* Tip Calculator 
+* Einstein (E = mc²)
+* Tip Calculator
 
-## Skills Learned
+**Skills Learned:**
 
 * Variables
 * Functions
@@ -26,6 +28,29 @@ I am currently learning Python through CS50P and using this repository to docume
 * Basic Mathematics
 * Problem Solving
 * Python Fundamentals
+
+---
+
+### Week 1
+
+**Projects:**
+
+* Deep Thought
+* Home Federal Savings Bank
+* File Extensions
+* Math Interpreter
+* Meal Time
+
+**Skills Learned:**
+
+* Conditionals (`if`, `elif`, `else`)
+* Boolean Expressions
+* Comparison Operators
+* Logical Operators (`and`, `or`, `not`)
+* String Manipulation
+* Input Validation
+* Decision Making
+* Problem Solving with Conditional Logic
 
 ## Goal
 
