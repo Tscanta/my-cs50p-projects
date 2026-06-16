@@ -52,6 +52,32 @@ I am currently learning Python through CS50P and using this repository to docume
 * Decision Making
 * Problem Solving with Conditional Logic
 
+---
+
+### Week 2
+
+**Projects:**
+
+* camelCase
+* Coke Machine
+* Just Setting Up My Twttr
+* Vanity Plates
+* Nutrition Facts
+
+**Skills Learned:**
+
+* Loops (`for`, `while`)
+* Iteration
+* String Traversal
+* Nested Loops
+* Input Validation with Loops
+* String Methods (`isdigit()`, `isalpha()`, `isalnum()`, `isupper()`, `lower()`, etc)
+* Building and Manipulating Strings
+* Dictionaries (`dict`)
+* Dictionary Lookups
+* Problem Solving with Repetition and Data Structures
+* Algorithmic Thinking
+
 ## Goal
 
 My goal is to complete the entire CS50P course, improve my programming skills, and build more advanced projects in Python.
