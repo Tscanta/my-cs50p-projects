@@ -78,6 +78,35 @@ I am currently learning Python through CS50P and using this repository to docume
 * Problem Solving with Repetition and Data Structures
 * Algorithmic Thinking
 
+---
+
+### Week 3
+
+**Projects:**
+
+* Fuel Gauge
+* Felipe's Taqueria
+* Grocery List
+* Outdated
+
+**Skills Learned:**
+
+* Exceptions (`try`, `except`)
+* Handling `ValueError`, `ZeroDivisionError`, and `EOFError`
+* Input Validation and Error Handling
+* Infinite Loops with `while True`
+* Using `continue` and `break`
+* Parsing and Formatting User Input
+* String Splitting with `split()`
+* Converting Data Types (`str` ↔ `int`)
+* Counting Data with Dictionaries
+* Dictionary Membership Testing
+* Sorting Dictionary Keys with `sorted()`
+* Working with Lists and Indexes
+* Date Parsing and Formatting
+* Defensive Programming
+* Building More Robust Programs
+
 ## Goal
 
 My goal is to complete the entire CS50P course, improve my programming skills, and build more advanced projects in Python.
