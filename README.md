@@ -1,4 +1,4 @@
-# My CS50P Projects
+# My CS50p Projects
 
 This repository contains my solutions and projects from Harvard University's CS50P (CS50's Introduction to Programming with Python) course.
 
