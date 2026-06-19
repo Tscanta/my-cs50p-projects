@@ -153,7 +153,6 @@ I am currently learning Python through CS50P and using this repository to docume
 * Back to the Bank
 * Re-requesting a Vanity Plate
 * Refueling
-* Numb3rs
 
 **Skills Learned:**
 
