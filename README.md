@@ -143,6 +143,37 @@ I am currently learning Python through CS50P and using this repository to docume
 * Writing Modular and Reusable Code
 * Problem Solving with Multiple Functions
 
+---
+
+### Week 5
+
+**Projects:**
+
+* Testing my twttr
+* Back to the Bank
+* Re-requesting a Vanity Plate
+* Refueling
+* Numb3rs
+
+**Skills Learned:**
+
+* Unit Testing
+* Automated Testing with `pytest`
+* Writing Test Functions
+* Assertions (`assert`)
+* Testing Exceptions with `pytest.raises()`
+* Importing Functions for Testing
+* Separating Program Logic from Input/Output
+* Returning Values from Functions
+* Test-Driven Thinking
+* Edge Case Testing
+* Validating Program Behavior
+* Debugging with Automated Tests
+* Software Reliability and Quality Assurance
+* Writing Maintainable and Reusable Code
+
+---
+
 ## Goal
 
 My goal is to complete the entire CS50P course, improve my programming skills, and build more advanced projects in Python.
