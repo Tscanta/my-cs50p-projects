@@ -1,8 +1,8 @@
 import sys
 
-if len(sys.argv) >= 2:
+if len(sys.argv) > 2:
     sys.exit("Too many command-line arguments")
-elif len(sys.argv) <= 2:
+elif len(sys.argv) < 2:
     sys.exit("Too few command-line arguments")
 
 filename = sys.argv[1]
