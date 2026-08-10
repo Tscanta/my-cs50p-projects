@@ -13,10 +13,13 @@ if not filename.endswith(".py"):
 try:
     with open(filename) as file:
         count=0
+
         for line in file:
             newline = line.strip()
+
             if not newline:
                 continue
+            
             if newline.startswith("#"):
                 continue
 
