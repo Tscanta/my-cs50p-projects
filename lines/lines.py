@@ -11,5 +11,8 @@ if not filename.endswith(".py"):
     sys.exit("Not a python file")
 
 try:
-    with open
+    with open(filename) as file:
+        ...
+except FileNotFoundError:
+    sys.exit("File does not exist")
 
