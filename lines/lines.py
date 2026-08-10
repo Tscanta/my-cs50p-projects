@@ -14,8 +14,15 @@ try:
     with open(filename) as file:
         count=0
         for line in file:
-            if not line.strip():
+            newline = line.strip()
+            if not newline:
                 continue
+            if newline.startswith("#"):
+                continue
+
+            count += 1
+        print(count)
+
 except FileNotFoundError:
     sys.exit("File does not exist")
 
