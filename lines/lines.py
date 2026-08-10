@@ -18,7 +18,7 @@ try:
         for line in file:
             newline = line.strip()
 
-            if not newline:
+            if not newline: #skipping all the blank lines
                 continue
 
             if newline.startswith("#"):
