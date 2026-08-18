@@ -14,7 +14,13 @@ if not filename.endswith(".csv"):
     sys.exit("Not a CSV file")
 
 try:
-    ...
+    with open(filename) as file:
+        reader = csv.reader(file)
 
-except FileNotFoundError: 
+        rows = []
+
+        for row in reader:
+            rows.append(row)
+
+except FileNotFoundError:
     sys.exit("File does not exist")
