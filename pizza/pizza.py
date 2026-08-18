@@ -18,5 +18,8 @@ try:
         reader = csv.reader(file)
         rows = list(reader)
 
+    table = tabulate(rows, headers="firstrow")
+    print(table)
+
 except FileNotFoundError:
     sys.exit("File does not exist")
