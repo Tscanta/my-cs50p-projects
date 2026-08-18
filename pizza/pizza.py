@@ -16,11 +16,7 @@ if not filename.endswith(".csv"):
 try:
     with open(filename) as file:
         reader = csv.reader(file)
-
-        rows = []
-
-        for row in reader:
-            rows.append(row)
+        rows = list(reader)
 
 except FileNotFoundError:
     sys.exit("File does not exist")
