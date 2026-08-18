@@ -18,7 +18,7 @@ try:
         reader = csv.reader(file)
         rows = list(reader)
 
-    table = tabulate(rows, headers="firstrow")
+    table = tabulate(rows, headers="firstrow", tablefmt="grid")
     print(table)
 
 except FileNotFoundError:
